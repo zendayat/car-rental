@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/car-rental/static/css/main.e480beed.css",
+    "main.js": "/car-rental/static/js/main.73121317.js",
+    "static/js/787.14090b77.chunk.js": "/car-rental/static/js/787.14090b77.chunk.js",
+    "static/media/limo3.webp": "/car-rental/static/media/limo3.4e73a329022c04f5d643.webp",
+    "static/media/airlimo.jpeg": "/car-rental/static/media/airlimo.2417a44832f118722867.jpeg",
+    "static/media/business.jpeg": "/car-rental/static/media/business.83fdcb8c5a99540aed8f.jpeg",
+    "static/media/airport transfer.jpeg": "/car-rental/static/media/airport transfer.3e1ad2ab62f45cfa47a9.jpeg",
+    "static/media/reception.jpeg": "/car-rental/static/media/reception.92635454c34284954035.jpeg",
+    "static/media/security.jpeg": "/car-rental/static/media/security.a39f125c3ff592a830c2.jpeg",
+    "static/media/street.jpeg": "/car-rental/static/media/street.496561b486700c679fb9.jpeg",
+    "static/media/chaffuer.jpeg": "/car-rental/static/media/chaffuer.4125ede7324736bfd09b.jpeg",
+    "static/media/logo2.png": "/car-rental/static/media/logo2.aef4ba22f9553d4bd28d.png",
+    "index.html": "/car-rental/index.html",
+    "main.e480beed.css.map": "/car-rental/static/css/main.e480beed.css.map",
+    "main.73121317.js.map": "/car-rental/static/js/main.73121317.js.map",
+    "787.14090b77.chunk.js.map": "/car-rental/static/js/787.14090b77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e480beed.css",
+    "static/js/main.73121317.js"
+  ]
+}
