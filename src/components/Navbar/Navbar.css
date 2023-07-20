@@ -1,0 +1,25 @@
+.navbar{
+    color: var(--color-text);
+}
+.menu_icon{
+    font-size: 3rem;
+    filter: blur();
+}
+.menu.hidden{
+    overflow: hidden;
+    max-height: 0px;
+    max-width: 0px;
+}
+.menu.visible{
+    width: fit-content;
+    max-height: fit-content;
+}
+@media screen and (max-width: 1024px){
+
+}
+@media screen and (max-width: 600px){
+    .flags{
+        display: none;
+    }
+
+}

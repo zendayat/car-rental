@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+.services{
+    height: fit-content;
+    margin-top: 70px;
+}
+h1{
+    font-family: 'Caprasimo', cursive;
+}
+@media screen and (max-width: 1024px){
+    
+}
+@media screen and (max-width: 600px){
+    .services1{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .services_head{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .riz,.rimg{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}

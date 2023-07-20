@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+::placeholder{
+    color: rgba(128, 128, 128, 0.815);
+}
+input{
+    width: 200px;
+}
+.Hero-l{
+    font-family: 'Caprasimo', cursive;
+}
+/* .img{
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+} */
